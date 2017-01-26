@@ -34,5 +34,6 @@ var contentMissiontitle = "Mission";
 missiontitle.textContent = contentMissiontitle;
 
 var missionp = document.getElementById("missionp");
-var contentMissionp = "\"Japanese-style attentiveness to the needs of my clients\" I highly understand that the design works should be the tools by which clients and their customers will fully communicate with each other, not just designers\' self-satisfaction. I have confidence to fully communicate with my clients and also satisfy them.";
+var contentMissionp = "\"Japanese-style attentiveness to the needs of my clients\" --- I highly understand that the design works should be the tools by which clients and their customers will fully communicate with each other, not just designers\' self-satisfaction. I have confidence to fully communicate with my clients and also satisfy them.";
 missionp.textContent = contentMissionp;
+
