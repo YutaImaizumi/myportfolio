@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(#05FBFF, #1E00FF);
+    font-family: Georgia, "Times New Roman", serif;
+    color: white;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 3em;
+    text-shadow: 2px 2px 4px #000080;
+    margin-top: 90px;
+    margin-bottom: 70px;
+}
+
+h2 {
+    font-size: 2.4em;
+    text-shadow: 1px 1px 2px #000080;
+    margin: 50px;
+}
+
+h3 {
+    font-size: 1.8em;
+    margin: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#container { 
+  color : dimgray;
+  margin-right: auto;
+  margin-left : auto;
+  width:960px;
+}
+
+#logo {
+    width: 130px;
+}
+
+#mepic {
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
+  box-shadow: 5px 5px 10px #000080;
+}
+
+
+/*text center*/
+
+#content{
+    text-align: center;
+}
+
+#footercr {
+    text-align: center;
+}
+
+/*icon center*/
+#iconcentr {
+    text-align: center;
+    margin: 0px;
+}
