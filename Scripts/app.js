@@ -5,6 +5,10 @@ var greeting = document.getElementById("greeting");
 var contentGreeting = "Hi! Japanese Graphic Designer Here!";
 greeting.textContent = contentGreeting;
 
+var myname = document.getElementById("myname");
+var contentMyname = "Yuta Imaizumi";
+myname.textContent = contentMyname;
+
 var aboutme = document.getElementById("aboutme");
 var contentAboutme = "About Me";
 aboutme.textContent = contentAboutme;
@@ -14,7 +18,7 @@ var contentCareertitle = "Career";
 careertitle.textContent = contentCareertitle;
 
 var careerp = document.getElementById("careerp");
-var contentCareerp = "5-year graphic designer mainly based in Tokyo, Japan. After graduating a university, I worked for a travel agency as a web content master. There I was into the depth of design and web industry, and started to learn graphic design by myself. Then worked for some design firm in Japan, and now I came here to Canada to study web development academically.";
+var contentCareerp = "5-year graphic designer mainly based in Tokyo, Japan. After graduating a university, I worked for a travel agency as a web content master. There I was into the depth of design and web industry, and started to learn graphic design by myself. Then worked for some design firms in Japan, and now I came here to Canada to study web development academically.";
 careerp.textContent = contentCareerp;
 
 var strengthtitle = document.getElementById("strengthtitle");
@@ -30,5 +34,5 @@ var contentMissiontitle = "Mission";
 missiontitle.textContent = contentMissiontitle;
 
 var missionp = document.getElementById("missionp");
-var contentMissionp = "\"Japanese-style attentiveness to the needs of my clients\"\nI highly understand that the design works should be the tools by which clients and their customers will fully communicate with each other, not just designers' self-satisfaction. I have confidence to fully communicate with my clients and also satisfy them.";
+var contentMissionp = "\"Japanese-style attentiveness to the needs of my clients\" I highly understand that the design works should be the tools by which clients and their customers will fully communicate with each other, not just designers\' self-satisfaction. I have confidence to fully communicate with my clients and also satisfy them.";
 missionp.textContent = contentMissionp;
