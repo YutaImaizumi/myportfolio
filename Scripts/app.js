@@ -1,3 +1,10 @@
+/* This is my original JavaScript data of the page "Home". 
+    The whole texts of this page is written in this page.
+    File name : app.js
+    Author's name : Yuta Imaizumi #200333869
+    Web site name : Yuta Imaizumi Portfolio */
+
+
 console.log("App Started");
 
 // texts of "Home" by string variables

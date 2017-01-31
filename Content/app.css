@@ -1,3 +1,11 @@
+/* This is my original CSS data of whole pages. 
+    File name : app.css
+    Author's name : Yuta Imaizumi #200333869
+    Web site name : Yuta Imaizumi Portfolio */
+
+
+/* main decoration */
+
 body {
 	background:
 		-webkit-linear-gradient(45deg, hsla(254, 96%, 44%, 1) 0%, hsla(254, 96%, 44%, 0) 70%),
@@ -14,18 +22,17 @@ body {
     font-size: 18px;
 }
 
-/*h1 */
 #greeting {
     font-size: 3em;
     text-shadow: 2px 2px 4px #000080;
     margin-top: 90px;
-    margin-bottom: 30px;
+    margin-bottom: 30px;  /* h1 */
 }
 #myname {
     font-size: 3.5em;
     text-shadow: 2px 2px 4px #000080;
     margin-top: 0px;
-    margin-bottom: 70px;
+    margin-bottom: 70px;  /* h1 */
 }
 
 h2 {
@@ -55,7 +62,7 @@ p {
   width:960px;
 }
 
-/* image size */
+/* image size setting */
 #logo {
     width: 130px;
 }
@@ -72,7 +79,7 @@ p {
 }
 
 
-/*text center*/
+/* main texts set to center */
 
 #content{
     text-align: center;
@@ -82,13 +89,13 @@ p {
     text-align: center;
 }
 
-/*icon center*/
+/* set whole icon by font awesome to center */
 #iconcentr {
     text-align: center;
     margin: 0px;
 }
 
-/*Link colors*/
+/* Link colors (set to all pages) */
 a:link { 
     color: white; 
 }
@@ -106,7 +113,7 @@ a:active {
     color: white; 
 }
 
-/*Link colors send button only*/
+/* Link colors (send button only)*/
 #sendbtn:link { 
     color: dimgray; 
 }
@@ -125,7 +132,7 @@ a:active {
 }
 
 
-/*form layout*/
+/* form layout adjusting */
 #mandatory {
     text-align: center;
 }
